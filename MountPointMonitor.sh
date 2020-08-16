@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-
+## MountPoint scripts
 a=`date '+%d-%b-%y'`
 b=`date '+%r'`
 BASE_DIR="/opt/LogScanSpaceCheck/"
